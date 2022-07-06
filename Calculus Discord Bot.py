@@ -7,7 +7,7 @@ import os
 import random
 
 #Calculus Discord Bot.
-#By:  ViridianTelamon
+#By:  ViridianTelamon.
 
 client = commands.Bot(command_prefix = "!")
 
